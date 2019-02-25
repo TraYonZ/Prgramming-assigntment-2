@@ -1,2 +1,2 @@
-# Prgramming-assigntment-2
+# Programming-assigntment-2
 Lexical Scoping
